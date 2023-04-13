@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [github](https://github.com/Bosshero476)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/2057274484212489718)
+- 📝 I regularly write articles on [[https://www.blogger.com/blog/posts/2057274484212489718)](https://www.linkedin.com/in/abir-hasan-5a2bb9166/](https://www.linkedin.com/in/abir-hasan-5a2bb9166/))
 
 - 💬 Ask me about **OpenCV, Deep Learning, Machine Learning**
 
