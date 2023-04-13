@@ -28,7 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bosshero476&show_icons=true&locale=en&layout=compact" alt="bosshero476" /></p>
 
-<imgsrc="https://camo.githubusercontent.com/c6379a66ee677f530673acf09e1bcb12b7c075a62efda8641da0d99ed1bace48/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61736164756a6a616d616e6d726964756c267468656d653d7675652d6461726b2673686f775f69636f6e733d7472756526686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=abirhasan&abp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true" style="max-width: 100%;">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bosshero476&show_icons=true&locale=en" alt="bosshero476" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bosshero476&" alt="bosshero476" /></p>
