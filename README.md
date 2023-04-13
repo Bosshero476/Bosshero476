@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **abirhasan1998@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/abir-hasan-5a2bb9166/](https://www.linkedin.com/in/abir-hasan-5a2bb9166/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abir-hasan-5a2bb9166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abir-hasan-5a2bb9166/" height="30" width="40" /></a>
@@ -31,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bosshero476&show_icons=true&locale=en" alt="bosshero476" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bosshero476&" alt="bosshero476" /></p>
+
