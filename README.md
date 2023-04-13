@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Abir Hasan👋</h1>
+<h1 align="center">Hi there! I'm Abir Hasan👋</h1>
 <h3 align="center">A passionate Self-directed learner and Data Science enthusiast from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bosshero476&label=Profile%20views&color=0e75b6&style=flat" alt="bosshero476" /> </p>
